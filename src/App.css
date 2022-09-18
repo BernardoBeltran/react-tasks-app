@@ -1,0 +1,33 @@
+.container > h1 {
+  text-align: center;
+}
+
+.btn-delete {
+  background-color: #28a745;
+}
+
+.grid{
+  margin-top: .5rem;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0;
+  text-transform: capitalize;
+}
+
+.tasks-container {
+  width: 100%;
+  padding: 1.5rem;
+}
+
+.tasks-container button {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
